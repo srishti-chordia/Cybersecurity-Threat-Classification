@@ -5,14 +5,14 @@ This project classifies cybersecurity threats using machine learning models, inc
 
 ## Requirements
 Ensure you have the following installed:
-- Python 3.x
+- Python 3.11
 - Required Python libraries (install using `pip install -r requirements.txt`)
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone <https://github.com/srishti-chordia/Cybersecurity-Threat-Classification>
+   cd <Cybersecurity Threat Classification>
    ```
 2. Install dependencies:
    ```bash
