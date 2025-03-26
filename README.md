@@ -3,6 +3,9 @@
 ## Overview
 This project classifies cybersecurity threats using machine learning models, including Random Forest, SVM, and MLP Classifier. The dataset undergoes preprocessing before training and evaluation.
 
+## Dataset
+CICIDS2017 dataset (available at https://www.unb.ca/cic/datasets/ids.html)
+
 ## Requirements
 Ensure you have the following installed:
 - Python 3.11
